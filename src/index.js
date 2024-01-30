@@ -1,4 +1,4 @@
-
+import './styles/main.css'
 
 window.addEventListener("DOMContentLoaded", (event) => {
   const tongue = document.getElementById('tongue');
